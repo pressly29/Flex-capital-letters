@@ -4,7 +4,9 @@ int capital_count = 0;
 %}
 
 /*** Rule Section
-The rules matches the words that start with a capital letter then followed by lower case letters.After printing, it also states the captal letter in the setence.The code assumes capital letters always be in the beginning of a word,thus any letter which is capitalized will be put in a new line followed by the rest of the letters in the word if in lowercase. ***/
+The rules matches the words that start with a capital letter then followed by lower case letters.
+After printing, it also states the captal letter in the setence.
+The code assumes capital letters always be in the beginning of a word,thus any letter which is capitalized will be put in a new line followed by the rest of the letters in the word if in lowercase. ***/
 
 %%
 [A-Z][a-z]* {
