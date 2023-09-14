@@ -1,3 +1,14 @@
+/*** Group 4
+1.135580 Elvis Rono
+2.134442 Isaac Baimet
+3.134788 Adrian Wanjau
+4.135159 Eric Kabogo
+5.134678 Bridget Muthee
+6.95007 John Kaburu
+7.121154 Curtis Thuranira***/
+
+
+
 /*** Definition Section ***/
 %{
 int capital_count = 0;
